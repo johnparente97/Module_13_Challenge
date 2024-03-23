@@ -27,4 +27,5 @@ Overall, this project demonstrates the application of machine learning algorithm
 
 ## Resources
 OSU Bootcamp Starter Files
+
 Github Copilot
