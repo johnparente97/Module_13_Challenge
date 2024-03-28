@@ -22,7 +22,7 @@ This project aims to build a spam detector using machine learning algorithms. Th
 
 ## Findings
 
-Based on the evaluation, the Random Forest Classifier model performed better than the Logistic Regression model. The Random Forest Classifier achieved a higher accuracy score, indicating its effectiveness in predicting spam emails. This finding aligns with the initial prediction made in the project.
+Based on the evaluation, the Random Forest Classifier model performed better than the Logistic Regression model. The Random Forest Classifier achieved a higher accuracy score, indicating its effectiveness in predicting spam emails. 
 
 ## Resources
 OSU Bootcamp Starter Files
