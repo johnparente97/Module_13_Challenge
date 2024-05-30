@@ -1,5 +1,3 @@
-# Module_13_Challenge
-
 # Spam Detector
 
 ## Overview
